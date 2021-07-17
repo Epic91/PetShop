@@ -151,3 +151,14 @@ h2{
             background-color: #F46036;
             padding: 20px 40px;
         }
+
+.feature .leftColumn{
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.feature .rightColumn{
+    margin-left: 50%;
+    width: 50%;
+    text-align: center;
+}
